@@ -1,13 +1,13 @@
 package org.selenide.examples;
 
 public class RedirectConstants {
-    public static String IMPORT_CSV_FILE = "/Users/k_mikami/work/google-test/doc/url.csv";
+    public static String IMPORT_CSV_FILE = "";
 
-    public static String OUTPUT_CSV_FILE = "/Users/k_mikami/work/google-test/doc/result.csv";
+    public static String OUTPUT_CSV_FILE = "";
 
-    public static String CHROME_DRIVER = "/Users/k_mikami/work/google-test/driver/chromedriver";
+    public static String CHROME_DRIVER = "";
 
-    public static String FIREFOX_DRIVER = "/Users/k_mikami/work/google-test/driver/geckodriver";
+    public static String FIREFOX_DRIVER = "";
     
-    public static String HEAD_DOM = "hdTitle";
+    public static String HEAD_DOM = "";
 }
